@@ -1,0 +1,2 @@
+# registry.k8s.io-descheduler-descheduler-v0.33.0
+registry.k8s.io/descheduler/descheduler:v0.33.0
